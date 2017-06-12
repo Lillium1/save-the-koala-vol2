@@ -128,7 +128,7 @@ army green: 41521F;
 	text-shadow: 1px 1px 3px black;
 }
 
-/*********** SECTION DONATE ***********/
+/*********** SECTION DONATE INFO***********/
 
 .five-section {
 	padding: 5em 0;
@@ -143,20 +143,17 @@ army green: 41521F;
 	padding-bottom: 50px;
 }
 
-/**** COLLAPSE ***/
-
-.collapse{
-	padding-top: 30px;
+.carousel-inner .item{
+	padding: 30px;
 }
 
-.well{
-	color: white;
-	padding: 10px;
-	background-color: #334215;
-	border: none;
-	font-size: 14px;
+.carousel-inner .item img{
+	max-height: 300px;
+    margin: 0 auto;
+    height: auto;
 }
-/*********** SECTION DONATE ***********/
+
+/*********** SECTION DONATE CON DINERO ***********/
 
 .six-section {
 	background-color: #A89F68;
@@ -182,6 +179,22 @@ sup {
 sub {
 	font-size: 0.2em;  
 }
+
+
+/**** COLLAPSE ***/
+
+.collapse{
+	padding-top: 30px;
+}
+
+.well{
+	color: white;
+	padding: 10px;
+	background-color: #334215;
+	border: none;
+	font-size: 14px;
+}
+
 
 /*********** SECTION FOOTER GR ***********/
 

@@ -143,6 +143,19 @@ army green: 41521F;
 	padding-bottom: 50px;
 }
 
+/**** COLLAPSE ***/
+
+.collapse{
+	padding-top: 30px;
+}
+
+.well{
+	color: white;
+	padding: 10px;
+	background-color: #334215;
+	border: none;
+	font-size: 14px;
+}
 /*********** SECTION DONATE ***********/
 
 .six-section {
